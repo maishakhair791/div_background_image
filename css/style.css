@@ -1,0 +1,22 @@
+.main_div{
+    margin: auto;
+    width: 80%;
+    height: 700px;
+    border-radius:10px ;
+    background-color: aqua;
+    background-image: url(../images/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.child{
+    color: aliceblue;
+
+    width: 60%;
+    
+    
+ 
+}
